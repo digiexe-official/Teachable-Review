@@ -4,8 +4,11 @@
 Hey there! Are you thinking about creating an online course but not sure where to start? Maybe you’ve heard of Teachable and want to know if it’s worth your time and money. 
 Well, you’re in the right place! 
 
-In this Teachable review, I’ll break it all down for you in simple English. We’ll look at what it is, how it works, the good stuff, the not-so-good stuff, and whether it’s the right fit for you in 2025. 
+In this Teachable review, I’ll break it all down for you in simple English. We’ll look at what it is, how it works, the good stuff, the not-so-good stuff, and whether it’s the right fit for you. 
 Let’s dive in!
+
+![image](https://github.com/user-attachments/assets/66b46c2d-adea-4ac2-89d9-7be8dffcafd9)
+
 
 ## What Is Teachable?📚
 
@@ -53,6 +56,9 @@ Students can learn on phones or tablets. These features make teaching and learni
 
 Let’s talk about money—how much does Teachable cost? As of March 2025, they’ve got four plans. Here’s the latest scoop in simple terms:
 
+<img width="803" alt="image" src="https://github.com/user-attachments/assets/c53d6ab6-351b-4cef-81ce-355216fed9bc" />
+
+
 ### Free Plan: $0/month. 
 
 You can start with one course, but they take a $1 + 10% fee per sale. Good for testing the waters.
@@ -61,9 +67,13 @@ You can start with one course, but they take a $1 + 10% fee per sale. Good for t
 
 You get five courses, no $1 fee, but a 5% cut per sale.
 
-### Pro Plan: $159/month (or $119/month yearly). Unlimited courses, no sale fees, and extras like certificates.
+### Pro Plan: $159/month (or $119/month yearly). 
 
-Business Plan: $249/month (or $199/month yearly). Everything in Pro, plus more users and fancy branding.
+Unlimited courses, no sale fees, and extras like certificates.
+
+### Business Plan: $249/month (or $199/month yearly). 
+
+Everything in Pro, plus more users and fancy branding.
 
 The Free Plan is great for beginners to try out, but the fees add up if you sell a lot. The Pro Plan is popular because it cuts those fees and gives you more tools. Prices might seem high, but you’re paying for a full system—no extra hosting costs! . 
 
@@ -123,6 +133,8 @@ These aren’t deal-breakers, but they’re worth knowing before you jump in.
 
 Teachable isn’t for everyone, so who’s it perfect for? I’d say it’s awesome for:
 
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/8badc0f3-5dbb-4b25-b30b-b22b0fc27ef9" />
+
 ### Beginners: 
 
 If you’re new to online teaching, the Free Plan and simple setup are gold.
@@ -138,6 +150,9 @@ It’s great for adding a course to your offerings without breaking the bank.
 If you’re a huge company needing tons of fancy features, it might feel basic. But for most people starting out, it’s a sweet spot.
 
 ## How Does Teachable Stack Up?
+
+![image](https://github.com/user-attachments/assets/c1c32375-4270-4f6a-ac52-ed4de6e9ff69)
+
 
 The online course world’s growing fast—over 1 billion users are expected by 2028! Teachable to keep up by adding stuff like better analytics and community tools. 
 I’ve seen competitors like Thinkific or Kajabi, and they’re good, too, but Teachable’s edge is its simplicity and one-stop setup. It’s not the cheapest or the fanciest, but it’s solid for most creators.
